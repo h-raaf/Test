@@ -2,15 +2,15 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "max",
+        "NetworkAds": "admob",
 
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner": "6efe7176109d5854",
-		"MaxInter":  "04482548b3b01ce3",
-		"MaxNative": "ee65aa6c8356a225",
+		"MaxBanner": "93bb7b9d663a4152",
+		"MaxInter":  "cdd4b59d24235cb4",
+		"MaxNative": "fe29d29a5fb34b91",
 
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
