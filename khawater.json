@@ -43,20 +43,7 @@
 				"isNative": false,
 				"background": "#25D366"
 			},
-			{
-				"title": "هناك فرق",
-				"image": "https://i.postimg.cc/PxXXMfQR/2012-09-16-22-20-34.jpg",
-				"color": "#FFFFFF",
-				"text_size": "25",
-				"isLink": false,
-				"link_title": "",
-				"setLink": "",
-				"image_link": "",
-				"text": "هناك فرق: \n\n  بين أن تكون وحدك وبين أن تكون وحيد! \n  بين أن تقول إلى اللقاء وبين أن تقول وداعاً \n  بين الغائب والمتغيب.",
-				"isNative": false,
-				"background": "#25D366"
-			},
-
+		
 			{
 				"title": "‏إرضَ بما أنت عليه",
 				"image": "https://i.postimg.cc/hvk4qLVX/170727-better-happy-sad-emotions.jpg",
@@ -463,6 +450,20 @@
 				"isNative": false,
 				"background": "#25D366"
 			},
+			  	{
+				"title": "هناك فرق",
+				"image": "https://i.postimg.cc/PxXXMfQR/2012-09-16-22-20-34.jpg",
+				"color": "#FFFFFF",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "هناك فرق: \n\n  بين أن تكون وحدك وبين أن تكون وحيد! \n  بين أن تقول إلى اللقاء وبين أن تقول وداعاً \n  بين الغائب والمتغيب.",
+				"isNative": false,
+				"background": "#25D366"
+			},
+
 			{
 				"title": "شرخٍ",
 				"image": "https://i.postimg.cc/k5Dd5c4D/photo-2022-09-14-23-28-11.jpg",
