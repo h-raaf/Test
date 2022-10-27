@@ -3,9 +3,9 @@
 		"AdsController": {
 			"NetworkAds": "max",
 
-			"BannerAdmob": "",
-			"InterstitialAdmob": "",
-			"NativeAdmob": "",
+			"BannerAdmob": "ca-app-pub-3516129193884802/5340608662",
+			"InterstitialAdmob": "ca-app-pub-3516129193884802/6897232916",
+			"NativeAdmob": "ca-app-pub-3516129193884802/3274231414",
 
 			"MaxBanner": "93bb7b9d663a4152",
 			"MaxInter": "cdd4b59d24235cb4",
