@@ -1,15 +1,8 @@
 {
 	"GuideData": {
 		"AdsController": {
-
-                        "BannerAd": "admob",
 			
-			"InterAdsActivitySplash": "facebook",
-			"InterAdsMainActivity": "admob",
-			"InterAdsSecActivity": "max",
-			"InterAdsThirdActivity": "facebook",
-			
-			"NativeAd": "max",
+                        "NetworkAds": "admob",
 			
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
