@@ -19,7 +19,7 @@
                          "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
 	                 "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
 			
-			"ImageBanner": true,
+			"ImageBanner": false,
 			"ImageBannerImg": "https://i.imgur.com/oWEjQGy.gif",
 			"ImageBannerURL": "https://netflix-free-accounts.netlify.app/"
 
