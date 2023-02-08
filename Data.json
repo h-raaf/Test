@@ -2,32 +2,50 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "admob",
-		"InterstitialAd": "admob",
-        "NativeAd": "admob",
 	      
-              "MyPromo": "yes",
+                        "BannerAd": "",
+			"InterstitialAd": "",
+			"NativeAd": "",
 	      
-	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	      
-		"maxBanner": "6db1491f2e21970c",
-		"maxInterstitial": "812b82d9e0c7cb7f",
-		"maxNative": "64ea2f2ef41edb34",
+	                "MyPromo": "yes",
+
+			"BannerAdsAc1": "admob",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "max",
+
+			"InterAdsAc1": "facebook",
+			"InterAdsAc2": "admob",
+			"InterAdsAc3": "facebook",
+
+			"NativeAdsAc1": "max",
+			"NativeAdsAc2": "admob",
+			"NativeAdsAc3": "facebook",
+			"NativeAdsAc4": "admob",
+			"NativeAdsAc5": "facebook",
 		
-		"ironsource_appKey": "1011dee21",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		
+		"MaxBanner" : "a7f77cecfb78d9e9",
+		"MaxInter" :  "09cd920cc3bc3224",
+		"MaxNative" : "7279b74f1af598cf",
+	    
+       "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+	    
+	"ironsource_appKey": "1011dee21",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
 		"unity_banner": "banner",
 		"unity_interstitial": "video",
-
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerURL" : "https://www.google.com"
 		
-      },
+        "Cpa": false,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/      },
 
     "items": [
       {
