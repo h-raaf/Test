@@ -6,18 +6,18 @@
 			"InterstitialAd": "",
 			"NativeAd": "",
 
-			"MyPromo": "yes",
+			"MyPromo": "no",
 
-			"BannerAdsAc1": "admob",
+			"BannerAdsAc1": "max",
 			"BannerAdsAc2": "facebook",
-			"BannerAdsAc3": "max",
+			"BannerAdsAc3": "admob",
 
 			"InterAdsAc1": "facebook",
 			"InterAdsAc2": "admob",
 			"InterAdsAc3": "facebook",
 
-			"NativeAdsAc1": "max",
-			"NativeAdsAc2": "admob",
+			"NativeAdsAc1": "admob",
+			"NativeAdsAc2": "max",
 			"NativeAdsAc3": "facebook",
 			"NativeAdsAc4": "admob",
 			"NativeAdsAc5": "facebook",
