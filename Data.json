@@ -6,7 +6,8 @@
 			"InterstitialAd": "",
 			"NativeAd": "",
 
-			"MyPromo": "yes",
+			"MyPromo": "no",
+			"Gift": "no",
 
 			"BannerAdsAc1": "facebook",
 			"BannerAdsAc2": "admob",
