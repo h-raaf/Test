@@ -7,19 +7,19 @@
 			"NativeAd": "",
 
 			"MyPromo": "yes",
-			"Gift": "no",
+			"Gift": "yes",
 
-			"BannerAdsAc1": "facebook",
-			"BannerAdsAc2": "admob",
-			"BannerAdsAc3": "facebook",
+			"BannerAdsAc1": "max",
+			"BannerAdsAc2": "max",
+			"BannerAdsAc3": "max",
 
 			"InterAdsAc1": "facebook",
 			"InterAdsAc2": "admob",
 			"InterAdsAc3": "facebook",
 
-			"NativeAdsAc1": "admob",
+			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
-			"NativeAdsAc3": "admob",
+			"NativeAdsAc3": "max",
 			"NativeAdsAc4": "facebook",
 			"NativeAdsAc5": "facebook",
 
