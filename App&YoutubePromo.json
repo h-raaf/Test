@@ -24,6 +24,18 @@
         "https://i.postimg.cc/LsL4F4hD/4.jpg"
       ]
     },
+        {
+      "name": "Get NetFlix Free Accounts",
+      "packageName": "https://www.google.com/",
+      "icon": "https://i.postimg.cc/Ls7pp40Q/t-l-chargement.png",
+      "preview": "https://i.postimg.cc/mDtgY6KJ/oWEjQGy.gif",
+      "shortDescription": "Get Now!",
+      "screenShot": [
+        "https://i.postimg.cc/J0YgbpV6/3.jpg",
+        "https://i.postimg.cc/2SZJZdHG/2.jpg",
+        "https://i.postimg.cc/tC1vKtHb/1.jpg"
+      ]
+    },
     {
       "name": "Midjourjey Art",
       "packageName": "com.wallpapers3d.midjourny_hdwallpapers",
