@@ -9,8 +9,8 @@
 			"MyPromo": "no",
 
 			"BannerAdsAc1": "max",
-			"BannerAdsAc2": "facebook",
-			"BannerAdsAc3": "admob",
+			"BannerAdsAc2": "max",
+			"BannerAdsAc3": "max",
 
 			"InterAdsAc1": "facebook",
 			"InterAdsAc2": "admob",
@@ -18,9 +18,9 @@
 
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
-			"NativeAdsAc3": "facebook",
-			"NativeAdsAc4": "admob",
-			"NativeAdsAc5": "facebook",
+			"NativeAdsAc3": "max",
+			"NativeAdsAc4": "max",
+			"NativeAdsAc5": "max",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
