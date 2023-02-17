@@ -9,9 +9,9 @@
 			"MyPromo": "yes",
 			"Gift": "no",
 
-			"BannerAdsAc1": "max",
-			"BannerAdsAc2": "max",
-			"BannerAdsAc3": "max",
+			"BannerAdsAc1": "admob",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "admob",
 
 			"InterAdsAc1": "facebook",
 			"InterAdsAc2": "admob",
@@ -19,7 +19,7 @@
 
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
-			"NativeAdsAc3": "max",
+			"NativeAdsAc3": "admob",
 			"NativeAdsAc4": "facebook",
 			"NativeAdsAc5": "facebook",
 
