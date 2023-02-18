@@ -1,28 +1,6 @@
 {
   "AppsPromote": [
-    {
-      "name": "Shahid Online",
-      "packageName": "com.aflamonline.shahid_vip",
-      "icon": "https://i.postimg.cc/9fnB8kjp/icon.jpg",
-      "preview": "https://i.postimg.cc/GmpYWjKS/cover.jpg",
-      "shortDescription": "Shahid Now!",
-      "screenShot": [
-        "https://i.postimg.cc/y8WgQ86M/1.jpg",
-        "https://i.postimg.cc/hj8fzJMd/5.jpg",
-        "https://i.postimg.cc/k4FgXBvh/8.jpg"
-      ]
-    },
-    {
-      "name": "ChatGpt Translator",
-      "packageName": "com.openaitraduction.chatgpt_langaugetranslator",
-      "icon": "https://i.postimg.cc/fbBXXvj1/icon.jpg",
-      "preview": "https://i.postimg.cc/nzmD5ttf/cover.jpg",
-      "shortDescription": "Dawnload Now!",
-      "screenShot": [
-        "https://i.postimg.cc/qq0z5hL2/2.jpg",
-        "https://i.postimg.cc/BnttkGx7/5.jpg",
-        "https://i.postimg.cc/LsL4F4hD/4.jpg"
-      ]
+   
     },
         {
       "name": "Get NetFlix Free Accounts",
@@ -34,18 +12,6 @@
         "https://i.postimg.cc/J0YgbpV6/3.jpg",
         "https://i.postimg.cc/2SZJZdHG/2.jpg",
         "https://i.postimg.cc/tC1vKtHb/1.jpg"
-      ]
-    },
-    {
-      "name": "Midjourjey Art",
-      "packageName": "com.wallpapers3d.midjourny_hdwallpapers",
-      "icon": "https://i.postimg.cc/rstQQHfD/icon.png",
-      "preview": "https://i.postimg.cc/3J5Pzjms/cover.jpg",
-      "shortDescription": "Dawnload Now!",
-      "screenShot": [
-        "https://i.postimg.cc/R0Z5p4FJ/Screenshot3.png",
-        "https://i.postimg.cc/SsX0qdcy/Screenshot7.png",
-        "https://i.postimg.cc/kXPr3xGm/Screenshot8.png"
       ]
     }
   ],
