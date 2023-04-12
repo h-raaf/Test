@@ -3,7 +3,7 @@
 		"AdsController": {
 
 			"BannerAd": "",
-			"InterstitialAd": "max",
+			"InterstitialAd": "admob",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
