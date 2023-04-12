@@ -3,7 +3,7 @@
 		"AdsController": {
 
 			"BannerAd": "",
-			"InterstitialAd": "",
+			"InterstitialAd": "facebook",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
