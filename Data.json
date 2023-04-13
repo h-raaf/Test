@@ -12,12 +12,12 @@
 			"Gift": "yes",
 
 			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "admob",
-			"BannerAdsAc3": "admob",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "max",
 
-			"InterAdsAc1": "facebook",
+			"InterAdsAc1": "admob",
 			"InterAdsAc2": "admob",
-			"InterAdsAc3": "facebook",
+			"InterAdsAc3": "admob",
 
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
