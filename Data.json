@@ -3,7 +3,7 @@
 		"AdsController": {
 
 			"BannerAd": "",
-			"InterstitialAd": "admob",
+			"InterstitialAd": "facebook",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
@@ -12,7 +12,7 @@
 			"Gift": "yes",
 
 			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "facebook",
+			"BannerAdsAc2": "admob",
 			"BannerAdsAc3": "admob",
 
 			"InterAdsAc1": "facebook",
