@@ -39,6 +39,20 @@
 		},
 
     "items": [
+	    
+	      {
+        "title": "Scott Shelly",
+        "image": "https://i.pinimg.com/564x/ec/0f/ef/ec0fefd62c9b13aa9fd1115f4e337815.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Scott Shelly:  ( Hangul:셸리 스콧 ) one of the female protagonists in the webtoon. She begins a one-sided relationship with Jay at the start of the series but as the story progress they have a mutual crush on each other and as of chapter 378 they are in a relationship. Shelly is the only female member of the Humming Bird Crew.  \n\n  Anime: Windbreaker",
+        "isNative": false,
+		"background": "#FFE998"
+      },
 	      	    	  {
         "title": " 5-toubun no hanayome ",
         "image": "https://mrkzgulfup.com/uploads/165662497241661.jpg",
