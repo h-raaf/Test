@@ -79,6 +79,34 @@
         "isNative": false,
 		"background": "#E74646"
       },
+	      {
+        "title": "Yumi Lee",
+        "image": "https://i.pinimg.com/564x/1f/7f/f5/1f7ff510a3ba9ab96ae6c8acbc957d31.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Who is Yumi in Wind Breaker? Yumi is the leader of the Tarantula crew. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  
+
+	    {
+        "title": "Lee Jihyun",
+        "image": "https://i.postimg.cc/x8nQSNQ0/f49a6933196979920c5954a4443d0946.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "QUEST SUPREMACY - YAKUZA THEORY - YANG GUKJA & LEE JIHYUN",
+        "isNative": false,
+		"background": "#FFE998"
+      },
 	      	    	  {
         "title": " 5-toubun no hanayome ",
         "image": "https://mrkzgulfup.com/uploads/165662497241661.jpg",
