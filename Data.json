@@ -66,6 +66,19 @@
         "isNative": false,
 		"background": "#6DA9E4"
       },
+	    	    {
+        "title": "Mia Kim",
+        "image": "https://i.pinimg.com/736x/52/9d/32/529d326349317c85d315a354888a8b32.jpg",
+        "color": "#111111",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Mia Kim: Mia Kim is a support character of Wind Breaker. She is currently a senior at Sunny High School in the same homeroom class as Yuna and Minu. She helped the Humming Bird crew create their logo.",
+        "isNative": false,
+		"background": "#E74646"
+      },
 	      	    	  {
         "title": " 5-toubun no hanayome ",
         "image": "https://mrkzgulfup.com/uploads/165662497241661.jpg",
