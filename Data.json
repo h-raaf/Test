@@ -57,19 +57,20 @@
 
     "items": [
 	    
-	      {
-        "title": "Scott Shelly",
-        "image": "https://i.pinimg.com/564x/ec/0f/ef/ec0fefd62c9b13aa9fd1115f4e337815.jpg",
+	    {
+        "title": "HUESERA",
+        "image": "https://www.heavenofhorror.com/wp-content/uploads/2023/02/Huesera-2022-review-horror.jpg",
         "color": "#57370D",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "https://www.google.com",
         "image_link": "",
-        "text": "Scott Shelly:  ( Hangul:셸리 스콧 ) one of the female protagonists in the webtoon. She begins a one-sided relationship with Jay at the start of the series but as the story progress they have a mutual crush on each other and as of chapter 378 they are in a relationship. Shelly is the only female member of the Humming Bird Crew.  \n\n  Anime: Windbreaker",
+        "text": "HUESERA: THE BONE WOMAN \n\n  Critics Consensus: A bone-chilling body horror, Huesera offers genre fans a twisted take on What to Expect When You're Expecting. \n\n  Valeria's joy at becoming a first-time mother is quickly taken away when she's cursed by a sinister entity. As danger closes in, she's forced deeper into a chilling world of dark magic that threatens to consume her.",
         "isNative": false,
 		"background": "#FFE998"
-      },
+      },	
+	   
 	    	    {
         "title": "Noah",
         "image": "https://i.pinimg.com/564x/fa/7d/a0/fa7da050f7bee42a462141a57f67328c.jpg",
